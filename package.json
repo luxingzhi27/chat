@@ -51,7 +51,7 @@
     "highlight.js": "^11.9.0",
     "loadsh": "^0.0.4",
     "markdown-it": "^13.0.2",
-    "marked": "^9.1.0",
+    "marked": "^11.1.1",
     "octokit": "^3.1.1"
   }
 }
